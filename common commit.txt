@@ -5,4 +5,4 @@
 1 modify1
 1 modify2
 after revert
-1resolve revert：before revert
+resolve revert：before revert
