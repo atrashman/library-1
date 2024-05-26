@@ -8,4 +8,4 @@ after revert
 1resolve revert：before revert
 after revertion
 test merge
-
+test merge2  modify the same file
